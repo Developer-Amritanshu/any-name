@@ -1,0 +1,31 @@
+.hero {
+  color: white;
+  background-image: url(https://www.futurity.org/wp/wp-content/uploads/2018/04/coder-coding-on-laptop_1600.jpg);
+  padding-top: 15em;
+  padding-bottom: 15em;
+  padding-left: 5em;
+}
+
+.row1 {
+  margin-top: 0%;
+  background: linear-gradient(-45deg, #EC5252 0, #6E1A52 100%);
+}
+
+.pad {
+  padding-top: 20px;
+}
+
+.feat, .feat-bel {
+  color: #fff;
+  text-align: center;
+}
+
+.foot {
+  margin-top: 1.5em;
+  color: #fff;
+  background-color: #000;
+}
+
+.card:hover {
+  box-shadow: 5px 5px 5px 5px #888888;
+}
